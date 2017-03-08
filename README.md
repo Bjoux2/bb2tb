@@ -26,7 +26,7 @@ The motivations are as follows: "**A main criticism against deep learning is tha
 
 **[number]** Jack Lanchantin, Ritambhara Singh, Zeming Lin and Yanjun Qi. "**Deep Motif: Visualizing Genomic Sequence Classifications**" arXiv. (2 Jun 2016). [[pdf]](https://arxiv.org/pdf/1605.01133.pdf) **(Biology related.)** :star::star::star::star::star:
 
-**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+**[number]** B Alipanahi, A Delong, MT Weirauch and BJ Frey. "**Predicting the sequence specificities of DNA-and RNA-binding proteins by deep learning**" Nature biotechnology. (AUGUST 2015). [[pdf]](http://graveleylab.cam.uchc.edu/WebData/mduff/MEDS_6498_SPRING_2016/deepBind_paper.pdf) **(DeepBind.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
