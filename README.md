@@ -28,8 +28,19 @@ The motivations are as follows: "**A main criticism against deep learning is tha
 
 **[number]** B Alipanahi, A Delong, MT Weirauch and BJ Frey. "**Predicting the sequence specificities of DNA-and RNA-binding proteins by deep learning**" Nature biotechnology. (AUGUST 2015). [[pdf]](http://graveleylab.cam.uchc.edu/WebData/mduff/MEDS_6498_SPRING_2016/deepBind_paper.pdf) **(DeepBind.)** :star::star::star::star::star:
 
+**[number]** DR Kelley, J Snoek and JL Rinn. "**Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks**" Genome research. (April 26, 2016). [[pdf]](http://genome.cshlp.org/content/26/7/990.full.pdf+html) **(for CNN.)** :star::star::star::star::star:
+
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 ## 3. 
 
