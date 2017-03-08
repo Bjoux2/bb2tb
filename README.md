@@ -58,3 +58,8 @@ The motivations are as follows: "**A main criticism against deep learning is tha
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+
+# Relevant information
+
+**[number]** Davide Castelvecchi. "**Can we open the black box of AI?**" Nature News. (05 October 2016). [[pdf]](http://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731?WT.ec_id=NATURE-20161006&spMailingID=52464950&spUserID=MjA1NzcwMjE4MQS2&spJobID=1020921868&spReportId=MTAyMDkyMTg2OAS2)
