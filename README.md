@@ -5,9 +5,36 @@ The motivations are as follows: "**A main criticism against deep learning is tha
 
 # Approaches
 
-## Interpretation through visualizing a trained deep learning model.
+## 1. Interpretation through visualizing a trained deep learning model.
 
 **[number]** Matthew D. Zeiler and Rob Fergus. "**Visualizing and understanding convolutional networks**" European conference on computer vision. (2014). [[pdf]](http://download.springer.com/static/pdf/266/chp%253A10.1007%252F978-3-319-10590-1_53.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-319-10590-1_53&token2=exp=1488948205~acl=%2Fstatic%2Fpdf%2F266%2Fchp%25253A10.1007%25252F978-3-319-10590-1_53.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-319-10590-1_53*~hmac=8e867d05b506152553657b0530bbc74a0ee680320a4afc26dee3728ab3c36a43) **(for CNN.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+
+## 2. 
+
+**[number]** Dumitru Erhan, Yoshua Bengio, Aaron Courville, and Pascal Vincent. "**Visualizing higher-layer features of a deep network**" University of Montreal. (January 2009). [[pdf]](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf) **(an early attempt.)** :star::star::star::star::star:
+
+**[number]** Karen Simonyan,  Andrea Vedaldi and  Andrew Zisserman. "**Deep inside convolutional networks: Visualising image classification models and saliency maps**" arXiv. (19 Apr 2014). [[pdf]](https://arxiv.org/pdf/1312.6034.pdf) **(for CNN.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+
+## 3. 
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+
+## 4. 
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
