@@ -20,7 +20,13 @@ The motivations are as follows: "**A main criticism against deep learning is tha
 
 **[number]** Dumitru Erhan, Yoshua Bengio, Aaron Courville, and Pascal Vincent. "**Visualizing higher-layer features of a deep network**" University of Montreal. (January 2009). [[pdf]](https://www.researchgate.net/profile/Aaron_Courville/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network/links/53ff82b00cf24c81027da530.pdf) **(an early attempt.)** :star::star::star::star::star:
 
-**[number]** Karen Simonyan,  Andrea Vedaldi and  Andrew Zisserman. "**Deep inside convolutional networks: Visualising image classification models and saliency maps**" arXiv. (19 Apr 2014). [[pdf]](https://arxiv.org/pdf/1312.6034.pdf) **(for CNN.)** :star::star::star::star::star:
+**[number]** Karen Simonyan, Andrea Vedaldi and Andrew Zisserman. "**Deep inside convolutional networks: Visualising image classification models and saliency maps**" arXiv. (19 Apr 2014). [[pdf]](https://arxiv.org/pdf/1312.6034.pdf) **(for CNN.)** :star::star::star::star::star:
+
+**[number]** T Lee and S Yoon. "**Boosted Categorical Restricted Boltzmann Machine for Computational Prediction of Splice Junctions.**" ICML. (2015). [[pdf]](http://www.jmlr.org/proceedings/papers/v37/leeb15.pdf) **(for RBM.)** :star::star::star::star::star:
+
+**[number]** Jack Lanchantin, Ritambhara Singh, Zeming Lin and Yanjun Qi. "**Deep Motif: Visualizing Genomic Sequence Classifications**" arXiv. (2 Jun 2016). [[pdf]](https://arxiv.org/pdf/1605.01133.pdf) **(Biology related.)** :star::star::star::star::star:
+
+**[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 **[number]** author. "**title**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
